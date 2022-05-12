@@ -94,13 +94,6 @@
 
 ---
 
-# :computer: Code
-
-[Hongbi-Kim/Project_book_recommendation: 독자의 상황 및 회원 여부에 따른 콘텐츠/협업필터링 도서 추천 시스템 (github.com)](https://github.com/Hongbi-Kim/Project_book_recommendation)
-
-<br>
-
-<br>
 
 # 🏆 대회결과
 
